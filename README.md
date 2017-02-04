@@ -1,5 +1,5 @@
 # MinimaxQ-Learning
-Applying minimaxQ learning algorithm to 3 agents games
+Applying minimaxQ learning algorithm to 2 agents games
 
 Implementation of minimaxQ algorithm as proposed in:
 https://www.cs.duke.edu/courses/spring07/cps296.3/littman94markov.pdf
